@@ -1,0 +1,9 @@
+{
+	"name": "sankarADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "361532ca-0b55-44bf-bceb-bcdbc5b0e606",
+		"tenantId": "288ddae7-7e7e-4184-9192-4d578ec93ab7"
+	}
+}
