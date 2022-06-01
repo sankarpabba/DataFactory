@@ -177,7 +177,16 @@
 							"secureOutput": false,
 							"secureInput": false
 						},
-						"userProperties": [],
+						"userProperties": [
+							{
+								"name": "Source",
+								"value": "sankarcontainer/input/data - Copy.csv"
+							},
+							{
+								"name": "Destination",
+								"value": "sankarcontainer/output/output.csv"
+							}
+						],
 						"typeProperties": {
 							"source": {
 								"type": "DelimitedTextSource",
