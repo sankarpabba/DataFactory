@@ -1,0 +1,7 @@
+{
+	"name": "PL_append",
+	"properties": {
+		"description": "appending data from source to sink",
+		"annotations": []
+	}
+}
