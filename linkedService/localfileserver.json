@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\shankar\\Input",
+			"host": "C:/shankar/Input",
 			"userId": "sankar pabba",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxMjUyOGFjNC1iOTI2LTQ1Y2YtOGNhOS1jYjFlYmUyOGJiZDMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2MDY5YWI2MS1jY2Q5LTQwZTItYjM1Ni1mMjk5ZDg3YjMyZTMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "IRselfHosted",
